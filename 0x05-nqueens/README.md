@@ -1,1 +1,2 @@
-<h3>0x05.  N Queens</h3>
+<h3>0x05-Nqueens </h3>
+<img src="./queen.jpeg">
